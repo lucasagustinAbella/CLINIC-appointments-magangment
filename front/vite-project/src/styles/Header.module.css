@@ -1,0 +1,71 @@
+/* .header {
+  background-color: #0055a4;
+  color: #fff;
+  text-align: left;
+  padding: 10px;
+  z-index: 100;
+  position: fixed;
+  width: 100%;
+  position: sticky;
+  top: 0;
+  height: fit-content;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+/* .header .navbarBrand {
+  justify-content: left !important;
+} */
+
+/* .navbarBrand {
+  color: white;
+  text-decoration: none;
+  font-size: 1.5rem;
+  text-align: left;
+  margin-right: auto;
+} */
+
+/* .logo {
+  width: auto;
+  height: 80px;
+}
+
+.userLogo {
+  width: auto;
+  height: 40px;
+} */
+
+.header {
+  background-color: #0055a4;
+  color: #fff;
+  padding: 10px;
+  z-index: 100;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  width: auto;
+  height: 80px;
+}
+
+.userLink {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #fff;
+}
+
+.userLogo {
+  width: auto;
+  height: 40px;
+  margin-right: 10px; /* Ajusta el margen derecho para separar la imagen del texto */
+}
+
+.username {
+  margin-bottom: 0;
+}

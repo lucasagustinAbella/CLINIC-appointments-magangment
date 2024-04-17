@@ -1,0 +1,44 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+/* Fuentes */
+p {
+  font-family: "Montserrat", sans-serif;
+}
+
+h2 {
+  font-family: "Inter", sans-serif;
+}
+
+a {
+  font-family: "Inter", sans-serif;
+}
+
+h4 {
+  font-family: "Inter", sans-serif;
+}
+
+h1 {
+  font-family: "Inter", sans-serif;
+}
+h3 {
+  font-family: "Inter", sans-serif;
+}
+li {
+  font-family: "Inter", sans-serif;
+}
+label {
+  font-family: "Inter", sans-serif;
+}
+input {
+  font-family: "Inter", sans-serif;
+}
+button {
+  font-family: "Inter", sans-serif;
+}
+footer {
+  font-family: "Inter", sans-serif;
+}

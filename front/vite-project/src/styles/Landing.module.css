@@ -1,0 +1,11 @@
+.landingDiv {
+  display: flex;
+  justify-content: center; /* Centra horizontalmente los elementos */
+  align-items: center; /* Centra verticalmente los elementos */
+  text-align: center;
+  margin-top: 10%;
+}
+.textSeparator {
+  margin-left: 2%;
+  margin-right: 2%;
+}

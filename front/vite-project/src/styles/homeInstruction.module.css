@@ -1,0 +1,29 @@
+.instructionSection {
+  margin-top: 5%;
+  margin-bottom: 20%;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  position: relative;
+}
+
+.instructionh1 {
+  margin-bottom: 30px;
+}
+
+.instructionul {
+  margin-right: 40%;
+}
+
+.instructionil {
+  font-size: large;
+  margin-bottom: 10px; /* Añadido margen inferior para separar los elementos de la lista */
+}
+
+.h2 {
+  margin-top: 2%;
+  margin-bottom: 2%;
+  margin-right: 43%;
+  text-align: left;
+}

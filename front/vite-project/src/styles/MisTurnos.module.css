@@ -1,0 +1,16 @@
+.Appointments {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+  padding-top: 20px;
+  margin-bottom: 10%;
+}
+
+.AppointTittle {
+  display: flex;
+  justify-content: center;
+  margin-top: 3%;
+  margin-bottom: 1%;
+}

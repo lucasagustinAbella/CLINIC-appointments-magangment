@@ -1,0 +1,45 @@
+.home-section {
+  text-align: left; /* Centra el contenido */
+  margin-top: 5%; /* Margen superior de 50px */
+  margin-bottom: 10%;
+  letter-spacing: 0.075em;
+}
+
+.title {
+  margin-bottom: 3%;
+}
+
+.home-section p {
+  margin-bottom: 20px;
+  max-width: 500px;
+  max-height: 500px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.textAndCard {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start; /* Alinea los elementos al principio */
+  justify-content: center;
+}
+
+.paragraph {
+  margin-bottom: 20px; /* Margen inferior para separar del párrafo */
+  max-width: 500px;
+  max-height: 500px;
+}

@@ -1,0 +1,34 @@
+.loginCard {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(35, 156, 10);
+  padding: 10px;
+  border-radius: 5px;
+  width: 308px;
+  text-decoration: none;
+  color: inherit;
+}
+
+.icon {
+  margin-right: 10px;
+  width: 100px;
+  height: 100px;
+}
+
+.text {
+  font-size: 16px;
+}
+
+.loginCard:hover {
+  cursor: pointer;
+  filter: brightness(0.8);
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.5s ease;
+}
+
+.link {
+  text-decoration: none;
+  color: inherit;
+}

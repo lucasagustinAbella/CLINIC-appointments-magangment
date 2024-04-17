@@ -1,0 +1,16 @@
+.Profile {
+  padding: 20px;
+  min-height: 100vh; /* Garantiza que el contenedor principal tenga al menos la altura de la ventana */
+  position: relative;
+}
+
+.ProfileTitle {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.UserInfo {
+  background-color: #f4f4f4;
+  border-radius: 5px;
+  padding: 20px;
+}

@@ -1,0 +1,16 @@
+.submitBtn {
+  margin-top: 10px;
+  width: fit-content;
+  padding: 10px 20px;
+  background-color: #0055a4; /* Color de fondo del botón */
+  color: white; /* Color del texto del botón */
+  border: 2px solid #ccc; /* Borde del botón */
+  border-radius: 5px; /* Borde redondeado */
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s, color 0.3s; /* Transición suave */
+}
+
+.submitBtn:hover {
+  color: #ccc; /* Color del texto del botón al pasar el cursor */
+}

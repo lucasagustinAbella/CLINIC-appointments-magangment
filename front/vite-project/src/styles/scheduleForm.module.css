@@ -1,0 +1,36 @@
+.scheduleForm {
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+  margin: 10% auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  position: relative;
+  z-index: 1;
+}
+
+.scheduleInputs label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.scheduleInputs input {
+  width: 90%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.scheduleInputs input:focus {
+  border-color: #007bff;
+  outline: none;
+}
+
+.errorMessage {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  color: red;
+  font-size: 14px;
+}

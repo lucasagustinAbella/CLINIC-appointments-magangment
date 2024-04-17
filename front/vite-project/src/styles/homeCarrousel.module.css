@@ -1,0 +1,9 @@
+.h3Carrousel,
+.textCarrousel {
+  color: white;
+}
+
+.carouselCaption {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 10px;
+}

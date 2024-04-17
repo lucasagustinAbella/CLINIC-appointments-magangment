@@ -1,0 +1,37 @@
+.registerForm {
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+  margin-top: 5% !important;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  justify-content: center;
+  margin-bottom: 10%;
+  position: relative;
+}
+.registerInputs label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.registerInputs input {
+  width: 90%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.registerInputs input:focus {
+  border-color: #007bff;
+  outline: none;
+}
+
+.errorMessage {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  color: red;
+  font-size: 14px;
+}
